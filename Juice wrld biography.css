@@ -1,0 +1,42 @@
+.house{
+    font-family:'Times New Roman', Times, serif;
+}
+.me{
+    font-size: 3rem;
+    font-weight: 900;
+    margin: 2.4rem;
+}
+.you{
+    padding-left: 1.9rem;
+    font-size: 1.2rem;
+}
+.us{
+    font-weight: 800;
+    font-size: xx-large;
+}
+.we{
+    font-size: larger;
+    margin: 0.9;
+}
+.them{
+    font-size: larger;
+    margin: 0.9;
+}
+.not{
+    font-weight: 800;
+    font-size: xx-large;
+}
+.kill{
+    margin-left: 30rem;
+    margin-top: 2rem;
+}
+.kill a{
+    color: aliceblue;
+    border-radius: 2px;
+    padding: 17px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(34, 27, 27);
+}
+
